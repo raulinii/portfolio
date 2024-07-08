@@ -1,0 +1,28 @@
+[
+    {
+      "role": "TBD",
+      "organisation": "TBD",
+      "startDate": "TBD",
+      "endDate": "TBD",
+      "experiences": ["TBD"],
+      "imageSrc": "history/snorlax.png"
+    },
+    {
+      "role": "TBD",
+      "organisation": "TBD",
+      "startDate": "TBD",
+      "endDate": "TBD",
+      "experiences": ["TBD"],
+      "imageSrc": "history/squirtle.png"
+    },
+    {
+      "role": "TBD",
+      "organisation": "TBD",
+      "startDate": "TBD",
+      "endDate": "TBD",
+      "experiences": [
+        "TBD"
+      ],
+      "imageSrc": "history/piplup.png"
+    }
+  ]
